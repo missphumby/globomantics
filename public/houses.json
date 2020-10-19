@@ -1,0 +1,24 @@
+[
+  {"id": 1,
+    "address": "12, valley of Kings, Geneva",
+    "country": "Switzerland",
+    "Description": "This flamboyant layout features a living area and sleeping area that is sectioned off by a door to provide you with added privacy. This suite includes a king-sized sofa bed, executive writing desk and dressing area. Our stunning, well-furnished bathrooms include a separate over-sized bathtub and shower allowing you to indulge in ultimate relaxation.",
+    "price": 90000,
+    "photo": "imgs/house-1.jpg"
+  },
+
+  {"id": 2,
+    "address": " No 65, Roads of ferk, Bern",
+    "country": "The Netherlands",
+    "Description": "An impressive family home with each room featureing contemporary fittings and is equipped with a spacious work desk, tea-making facilities and a flat-screen cable TV with a king-sized bed to crown. Bearing exciting wall décor and amazing wall curtains, its proximity to the gym simply means you’ll be crushing your fitness goals while we spoil you with luxury and love.",
+    "price": 50000,
+    "photo": "imgs/house-2.jpg"
+  },
+  {"id": 3,
+    "address": "Grote Hef 12, Amsterdan",
+    "country": "Amsterdam",
+    "Description": "A luxury house for family and Overvalue for your money Combining affordability with class, these beautiful rooms boast of all basic amenities a guest may expect to have in a modern day, city hotel. Seated mostly on the first floor, the rooms are easily accessible and the room ambience, just like you find anywhere in  the World, our hotel is world class",
+    "price": 30000,
+    "photo": "imgs/house-3.jpg"
+  }
+]
